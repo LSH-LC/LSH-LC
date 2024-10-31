@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I’m [Lim-SH], 
+I’m [Lim-SH],
 
 ## 🚀 Tech Stack
 - **Programming Languages**: Python, Java
