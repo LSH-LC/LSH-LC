@@ -3,7 +3,7 @@
 I’m [Lim-SH],
 
 ## 🚀 Tech Stack
-- **Programming Languages**: Python, Java
+- **Programming Languages**: Python, Java, C++
 - **Databases**: MySQL
 - **Others**: Git
 
